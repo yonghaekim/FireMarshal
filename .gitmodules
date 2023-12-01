@@ -1,6 +1,3 @@
-[submodule "riscv-linux"]
-	path = boards/default/linux
-	url = https://github.com/firesim/linux.git
 [submodule "riscv-pk"]
 	path = boards/default/firmware/riscv-pk
 	url = https://github.com/riscv/riscv-pk.git
@@ -19,3 +16,6 @@
 [submodule "boards/firechip/drivers/iceblk-driver"]
 	path = boards/firechip/drivers/iceblk-driver
 	url = https://github.com/firesim/iceblk-driver.git
+[submodule "boards/default/linux"]
+	path = boards/default/linux
+	url = https://github.com/yonghaekim/linux.git
